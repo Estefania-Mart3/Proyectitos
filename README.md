@@ -1,6 +1,6 @@
 # Proyectitos
 Repositorio con proyectos personales desarrollados para práctica y automatización de tareas. El código puede reutilizarse como referencia.
-#Calendario 
+# Calendario 
 ## Descripción
 
 Script en Python que genera calendarios anuales en alta resolución a partir de un archivo CSV con cumpleaños.  
